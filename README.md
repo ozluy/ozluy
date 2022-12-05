@@ -1,1 +1,1 @@
-Developing applications for humans with React.
+Developing applications with React.
