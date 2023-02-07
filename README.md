@@ -1,1 +1,1 @@
-Developing applications with React.
+Developing web applications with React.
