@@ -1,1 +1,1 @@
-Developing web applications with React.
+Developer for decade.
